@@ -8,13 +8,13 @@ Vue.component(VImageInput.name, VImageInput)
 
 export default new Vuetify({
   theme: {
-    dark: true,
     themes: {
-      dark: {
+      light: {
         primary: '#383838',
         secondary: '#A80000',
         accent: '#A70000',
-        error: '#ff0000'
+        error: '#ff0000',
+        active: '#42A5F5'
       }
     }
   },
