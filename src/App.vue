@@ -1,7 +1,7 @@
 <template>
-  <div id="app">
-    Welcome!
-  </div>
+  <v-app>
+    hello
+  </v-app>
 </template>
 
 <script>
